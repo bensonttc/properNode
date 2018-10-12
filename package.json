@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bensonttc/properNode/issues"
   },
-  "homepage": "https://github.com/bensonttc/properNode#readme"
+  "homepage": "https://github.com/bensonttc/properNode#readme",
+  "dependencies": {
+    "nodemailer": "^4.6.8"
+  }
 }
